@@ -1,5 +1,5 @@
 
-## **CIA** #cia
+## **[[CIA]]** #cia
 1. (C) Which stands for **Confidentiality** : Ensuring that sensitive information is accessible only to authorized individuals or systems.
 2. (I) Which stands for **Integrity** : Ensuring data is accurate, consistent, and unaltered unless authorized.
 3. (A) Which stands for **Availability** : Ensuring systems and data are accessible when needed by authorized users.
