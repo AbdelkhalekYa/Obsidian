@@ -5,18 +5,18 @@
 
 - **Default Storage**: Each standard user on a Linux system is assigned their own directory within the `/home` hierarchy. This is where personal documents, downloads, and custom scripts are typically kept.
 - **The Pathing**: On the logical filesystem, these directories are located at `/home`. For example, if a user's name is "OTW," their home directory would typically be `/home/OTW`.
-- **Privilege Separation**: A critical distinction made in the sources is the difference between standard user home directories and the administrator's space. While regular users live in `/home`, the "all-powerful" **root** user has a separate home directory located at `/root`.
+> [!attention]+
+> **Privilege Separation**: A critical distinction made in the sources is the difference between standard user home directories and the administrator's space. While regular users live in `/home`, the "all-powerful" **root** user has a separate home directory located at `/root`.
+
 
 ---
 
 ### **Gap Analysis: Essential Context for the Practitioner**
 
-While the sources provide a functional definition of the home directory, several technical nuances are omitted that are crucial for navigating a Linux system effectively.
-
 - **Gap: The Tilde (`~`) Shortcut**: The sources describe navigating to directories using `cd`, but they do not mention the universal shortcut for "home."
     - _**External Context**_: In the Linux shell, the tilde character (`~`) is a shorthand representation of the current user's home directory. Typing `cd ~` will always return you to your home space, regardless of where you are in the filesystem.
 - **Gap: Multi-User Isolation**: The source mentions that each user has their own directory but doesn't explain the security implications.
-    - _**External Context**_: Linux is a multi-user operating system. By default, users are generally restricted from viewing or modifying files in another user's home directory. This isolation is a core security feature that prevents one compromised user account from accessing the personal data of everyone else on the system.
+    - _**External Context**_: <mark style="background:#affad1">Linux is a multi-user operating system</mark>. By default, users are generally restricted from viewing or modifying files in another user's home directory. This isolation is a core security feature that prevents one compromised user account from accessing the personal data of everyone else on the system.
 - **Gap: Hidden Configuration (Dotfiles)**: The source mentions that hidden files exist (using `ls -la`) but doesn't link them specifically to the home directory.
     - _**External Context**_: The home directory is where most user-specific application settings are stored. These are usually "hidden" files or directories starting with a period (e.g., `.bashrc` or `.config`). These "dotfiles" allow users to customize their environment without affecting other users on the same machine.
 
