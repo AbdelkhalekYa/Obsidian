@@ -1,6 +1,5 @@
 #summary
-## The Penetration Tester’s Foundation: A Comprehensive Guide to Kali Linux Basics
-
+## [[Linux_Task_one.pdf | The Penetration Tester’s Foundation: A Comprehensive Guide to Kali Linux Basics]]
 #### 1. Introduction to the Hacker’s Operating System
 
 By their very nature, hackers are doers. The field of cybersecurity demands a rapid transition from the passive consumption of information technology theory to active, hands-on engagement. To master the art of the exploit, one must be willing to "touch and play with things"—to create and, occasionally, to break them. In this high-stakes environment, theory follows practice. You don't learn to swim by reading a manual; you jump in the water.Kali Linux is the industry-standard "water" for our discipline. It is a specialized Linux distribution specifically designed for the rigors of penetration testing and security auditing. Rather than requiring a researcher to spend hours downloading and configuring individual utilities, Kali arrives as a pre-packaged arsenal. Specifically, this guide references Kali version 2018.2, first released in April 2018. Before you can effectively wield the weapons in this suite, you must first master the fundamental terminology and environmental logic of the Linux operating system.
