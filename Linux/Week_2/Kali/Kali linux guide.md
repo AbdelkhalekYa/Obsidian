@@ -1,3 +1,4 @@
+#kali
 ### **1. Core Concept Breakdown: The Essential Vocabulary**
 
 The source introduces several introductory terms that define the user's interaction with the Linux environment.
