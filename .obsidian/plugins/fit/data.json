@@ -1,0 +1,30 @@
+{
+  "localSha": {
+    "Linux/Week_2/Kali/Summary.md": "1b35865b85200d7a35434714245fa1b27bceff3f"
+  },
+  "lastFetchedCommitSha": "71b30b4cbcf42910b4c099b351b7ebdc87d4c938",
+  "lastFetchedRemoteSha": {
+    "Linux/Week_2/Kali/I.Introductory Terms/1.Intro.md": "8430506581fb43c70a2b758d893b616616c01d5f",
+    "Linux/Week_2/Kali/I.Introductory Terms/2.Binaries.md": "e1806e6c51f5694e95ff24dfdd7167ff8c613808",
+    "Linux/Week_2/Kali/I.Introductory Terms/3.Case Sensitivity.md": "e48a6b94eff71cbb8e7cd8d79243269ea60521e1",
+    "Linux/Week_2/Kali/I.Introductory Terms/4.Directory.md": "1b6038a5b94fcbb2477e81a0baad103819ae80e8",
+    "Linux/Week_2/Kali/I.Introductory Terms/5.Home.md": "bca10996e2256f4b4774d7117b8161c7fff55ddc",
+    "Linux/Week_2/Kali/I.Introductory Terms/6.Root.md": "11e415144d3771e804aafa7a49ea31d03ddb97e3",
+    "Linux/Week_2/Kali/I.Introductory Terms/7.Script.md": "fd3edaa352e51ca5c1f1a955ed0919391bd68d51",
+    "Linux/Week_2/Kali/I.Introductory Terms/8.Shell(bash) vs Terminal(cli).md": "2c2d8e21b73844f72a41a07590a6e89a51fb5880",
+    "Linux/Week_2/Kali/Summary.md": "f5cc99a55e0bfc073fab68bce528db5e6485ba4e",
+    "PDF/Linux_Task_one.pdf": "445331049f8066febe29d56f622fd0a537618f66"
+  },
+  "encryptionPassword": "",
+  "pat": "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",
+  "owner": "AbdelkhalekYa",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/107761340?v=4",
+  "repo": "Obsidian",
+  "branch": "CTF",
+  "deviceName": "Abdelkhalek_phone",
+  "checkEveryXMinutes": 1,
+  "autoSync": "on",
+  "notifyChanges": true,
+  "notifyConflicts": true,
+  "enableDebugLogging": true
+}

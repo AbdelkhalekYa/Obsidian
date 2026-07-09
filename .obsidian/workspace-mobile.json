@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "efe620f18f1c3fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d5f5fc2a725ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739c86b0f93839ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b9d07e198bbb440",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a06b476ed1dd97b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "808754791a03f833",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "17193a136d391d88",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "38f8a0f1d00f24ce",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8e62b91368780b4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1956b981e580ecc8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cyber Security/1.Network fundamentals/Intro.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0e16635c2b7a2511",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1242c31a6e575c67",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fit:Sync to GitHub": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-gitless-sync:Open sync conflicts view": false,
+      "github-gitless-sync:Sync with GitHub": false
+    }
+  },
+  "active": "4a06b476ed1dd97b",
+  "lastOpenFiles": [
+    "Linux/Week_2/Kali/I.Introductory Terms/8.Shell(bash) vs Terminal(cli).md",
+    "Linux/Week_2/Kali/I.Introductory Terms/5.Home.md",
+    "Linux/Week_2/Kali/I.Introductory Terms/6.Root.md",
+    "Linux/Week_2/Kali/I.Introductory Terms/3.Case Sensitivity.md",
+    "Linux/Week_2/Kali/I.Introductory Terms/7.Script.md",
+    "Linux/Week_2/Kali/I.Introductory Terms/1.Intro.md",
+    "Linux/Week_2/Kali/I.Introductory Terms/4.Directory.md",
+    "Linux/Week_2/Kali/I.Introductory Terms/2.Binaries.md",
+    "PDF",
+    "Linux/Week_2/Kali/I.Introductory Terms",
+    "Linux/Week_2/Kali/Summary.md",
+    "Linux/Week_2/Kali",
+    "Linux/Week_2",
+    "Linux/Week_1/HELLO.md",
+    "Linux/Week_1",
+    "Linux",
+    "Cyber Security/1.Network fundamentals/Intro.md",
+    "Image/Pasted image 20251031210422.png",
+    "Cyber Security/1.Network fundamentals/3.Sub Network.md",
+    "Cyber Security/1.Network fundamentals/2.CLI & GUI.md",
+    "Cyber Security/1.Network fundamentals/1.Intro.md",
+    "Cyber Security/2.Security Fundamentals/1.Data Security.md",
+    "Cyber Security/3.Network Security/Nmap.md",
+    "Cyber Security/3.Network Security",
+    "README.md",
+    "Image/Pasted image 20251031002615.png",
+    "Image/Drawing 2025-10-31 00.18.29.excalidraw.md",
+    "Image",
+    "Cyber Security/2.Security Fundamentals/5.Ensuring  Integrity.md",
+    "Cyber Security/2.Security Fundamentals/4.Data protection.2.md",
+    "Cyber Security/2.Security Fundamentals/3.Data Protection & Privacy.md",
+    "Cyber Security/2.Security Fundamentals/2.Cyber Attacks.md",
+    "Cyber Security/2.Security Fundamentals",
+    "Cyber Security/1.Network fundamentals",
+    "Test.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
