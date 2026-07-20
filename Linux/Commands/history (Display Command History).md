@@ -231,4 +231,6 @@ Genuinely useful during iterative exploit development — you'll run near-identi
 
 ---
 
-**Relevant to your SOC work:** Treat `.bash_history` as a _useful but untrustworthy_ artifact during investigation — it's easily cleared (`history -c`), selectively hidden (`HISTCONTROL=ignorespace`), or edited directly as a plain text file, so a suspiciously clean history is itself an indicator worth flagging, not proof of innocence. For more reliable command-level auditing on hardened systems, SOC teams typically rely on `auditd` or shell logging solutions (like `snoopy` or session recording) rather than trusting the shell's own self-reported history — worth knowing as a limitation even though `history` is still a useful first-look tool.
+
+> [!tip]+
+> **Relevant to your SOC work:** Treat `.bash_history` as a _useful but untrustworthy_ artifact during investigation — it's easily cleared (`history -c`), selectively hidden (`HISTCONTROL=ignorespace`), or edited directly as a plain text file, so a suspiciously clean history is itself an indicator worth flagging, not proof of innocence. For more reliable command-level auditing on hardened systems, SOC teams typically rely on `auditd` or shell logging solutions (like `snoopy` or session recording) rather than trusting the shell's own self-reported history — worth knowing as a limitation even though `history` is still a useful first-look tool.
