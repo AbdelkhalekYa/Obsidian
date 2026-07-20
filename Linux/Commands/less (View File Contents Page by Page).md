@@ -1,4 +1,4 @@
-#commands #filter
+#commands 
 
 ## `less` — View File Contents Page by Page
 
@@ -186,7 +186,8 @@ less -p "authentication failure" /var/log/auth.log
 
 ---
 
-**Relevant to your work:** `less +F` is a genuinely excellent middle ground for SOC log monitoring — you get `tail -f`'s live-following behavior but can pause, scroll back, and search (`/pattern`) without losing your place or restarting the command, which plain `tail -f` can't do. For CTF/RE work, piping `objdump -d` or `strings` output into `less` (instead of `cat`ing it and losing half the output above your terminal buffer) is a habit worth building early — you'll be doing it constantly once you're deep into static analysis in Phase 1–2 of your roadmap.
+> [!tip]+
+> **Relevant to your work:** `less +F` is a genuinely excellent middle ground for SOC log monitoring — you get `tail -f`'s live-following behavior but can pause, scroll back, and search (`/pattern`) without losing your place or restarting the command, which plain `tail -f` can't do. For CTF/RE work, piping `objdump -d` or `strings` output into `less` (instead of `cat`ing it and losing half the output above your terminal buffer) is a habit worth building early — you'll be doing it constantly once you're deep into static analysis in Phase 1–2 of your roadmap.
+> 
 
-Want the next command?
 
