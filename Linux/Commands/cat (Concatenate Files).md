@@ -204,6 +204,6 @@ cat /proc/version              # quick kernel version check during host triage
 
 ---
 
-**Relevant to your work:** `cat -A` is a genuinely underused security tool — attackers occasionally hide payloads or evade simple text-based detection using unusual whitespace, null bytes, or non-standard line endings inside scripts/configs, and `cat -A` makes those invisible tricks visible instantly. In your CTF/PWN work, `cat /proc/<pid>/maps` is a command you'll return to constantly once you get into Phase 3 (heap/ASLR work) — it's the fastest way to see a running process's actual memory layout (stack, heap, libc base, PIE base) outside of GDB.
-
-Want the next command?
+> [!tip]+
+> **Relevant to your work:** `cat -A` is a genuinely underused security tool — attackers occasionally hide payloads or evade simple text-based detection using unusual whitespace, null bytes, or non-standard line endings inside scripts/configs, and `cat -A` makes those invisible tricks visible instantly. In your CTF/PWN work, `cat /proc/<pid>/maps` is a command you'll return to constantly once you get into Phase 3 (heap/ASLR work) — it's the fastest way to see a running process's actual memory layout (stack, heap, libc base, PIE base) outside of GDB.
+> 
