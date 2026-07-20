@@ -210,7 +210,8 @@ Shows the most repeated strings in a binary — sometimes highlights an interest
 
 ---
 
-**Relevant to your SOC work:** `sort | uniq -c | sort -nr` is genuinely one of the highest-value command combos you'll use constantly in log triage — whether it's counting failed logins per IP, most-requested URLs, or most frequent error codes, this pattern turns raw log noise into a ranked frequency table in seconds without needing a SIEM query. It's worth memorizing as muscle memory rather than looking up each time.
+> [!tip]+
+> **Relevant to your SOC work:** `sort | uniq -c | sort -nr` is genuinely one of the highest-value command combos you'll use constantly in log triage — whether it's counting failed logins per IP, most-requested URLs, or most frequent error codes, this pattern turns raw log noise into a ranked frequency table in seconds without needing a SIEM query. It's worth memorizing as muscle memory rather than looking up each time.
+> 
 
-Want the next command?
 
