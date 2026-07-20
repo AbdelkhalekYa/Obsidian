@@ -204,6 +204,6 @@ Confirms shellcode size fits within a buffer's known space constraints — criti
 
 ---
 
-**Relevant to your work:** `grep ... | wc -l` is one of the most reflexive commands you'll type in SOC triage — "how many times did this happen" is often the very first question in any investigation, and this pattern answers it instantly without needing a SIEM dashboard. In your PWN work, `wc -c` is a small but important precision check: exploit development is byte-exact, and using `wc -c` to verify payload/shellcode length before sending it catches off-by-one mistakes before they cost you a debugging session.
 
-Want the next command?
+> [!tip]+
+> **Relevant to your work:** `grep ... | wc -l` is one of the most reflexive commands you'll type in SOC triage — "how many times did this happen" is often the very first question in any investigation, and this pattern answers it instantly without needing a SIEM dashboard. In your PWN work, `wc -c` is a small but important precision check: exploit development is byte-exact, and using `wc -c` to verify payload/shellcode length before sending it catches off-by-one mistakes before they cost you a debugging session.
