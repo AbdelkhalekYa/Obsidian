@@ -246,6 +246,9 @@ Sorts symbol table entries by address — makes it easier to scan through functi
 
 ---
 
-**Relevant to your SOC work:** `sort -t: -k3,3n /etc/passwd` is a genuinely useful quick host-integrity check — UID 0 should only belong to `root`; seeing any other UID-0 entry sorted to the top is a red flag for a backdoor account. More broadly, mastering `sort -k` with custom delimiters (`-t`) is what lets you meaningfully sort structured log data (CSV exports, `/etc/passwd`, firewall logs) by the _field that matters_ rather than just alphabetically by the whole line — a skill you'll lean on constantly moving from ad-hoc `grep`ing into more structured log analysis.
+
+> [!tip]+
+> **Relevant to your SOC work:** `sort -t: -k3,3n /etc/passwd` is a genuinely useful quick host-integrity check — UID 0 should only belong to `root`; seeing any other UID-0 entry sorted to the top is a red flag for a backdoor account. More broadly, mastering `sort -k` with custom delimiters (`-t`) is what lets you meaningfully sort structured log data (CSV exports, `/etc/passwd`, firewall logs) by the _field that matters_ rather than just alphabetically by the whole line — a skill you'll lean on constantly moving from ad-hoc `grep`ing into more structured log analysis.
+
 
 Want the next command?
