@@ -178,6 +178,6 @@ cd -P /suspicious/symlinked_path && pwd
 
 ---
 
-**Relevant to your work:** `cd -` is the shortcut you'll build muscle memory for fastest — constantly bouncing between a challenge directory and your tools directory during CTF work, or between a log directory and a working/scratch directory during SOC triage, is exactly the two-location pattern `cd -` is built for. `cd -P` is a smaller but real security-relevant tool: if you ever suspect a symlink is being used to disguise a file's true location (a legitimate, if uncommon, evasion technique), resolving the physical path removes any ambiguity.
 
-Want the next command?
+> [!tip]+
+> **Relevant to your work:** `cd -` is the shortcut you'll build muscle memory for fastest — constantly bouncing between a challenge directory and your tools directory during CTF work, or between a log directory and a working/scratch directory during SOC triage, is exactly the two-location pattern `cd -` is built for. `cd -P` is a smaller but real security-relevant tool: if you ever suspect a symlink is being used to disguise a file's true location (a legitimate, if uncommon, evasion technique), resolving the physical path removes any ambiguity.
