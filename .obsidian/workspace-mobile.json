@@ -141,7 +141,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "fit:Sync to GitHub": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -156,6 +155,7 @@
   },
   "active": "4a06b476ed1dd97b",
   "lastOpenFiles": [
+    "PDF/Linux_Task_one.pdf",
     "Linux/Week_2/Kali/I.Introductory Terms/8.Shell(bash) vs Terminal(cli).md",
     "Linux/Week_2/Kali/I.Introductory Terms/5.Home.md",
     "Linux/Week_2/Kali/I.Introductory Terms/6.Root.md",
