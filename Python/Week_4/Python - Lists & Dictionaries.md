@@ -1,10 +1,3 @@
----
-aliases:
-tags:
-  - commands
-  - comparison
-TQ_explain:
----
 
 # Python Lists & Dictionaries
 
