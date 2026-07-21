@@ -572,8 +572,3 @@ Use `deepcopy()` specifically when your list contains **nested** lists/dicts tha
 11. Difference between `copy.copy()` and `copy.deepcopy()`? → shallow copy vs. fully recursive copy.
 
 ---
-
-## Related Notes
-- [[Python - Dictionaries]]
-- [[Python - Strings]]
-- [[Python - Functions & Scope]]
