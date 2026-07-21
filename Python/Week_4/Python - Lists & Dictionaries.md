@@ -1,7 +1,3 @@
----
-tags: [python, programming, automate-boring-stuff, data-structures]
-source: Automate the Boring Stuff with Python — Chapter 4 (Lists) & Chapter 5 intro (Dictionaries)
----
 
 # Python Lists & Dictionaries
 
