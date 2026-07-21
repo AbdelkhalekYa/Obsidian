@@ -1,4 +1,11 @@
-#concepts 
+---
+cssclasses:
+  - linux
+tags:
+  - concepts
+  - links
+  - linux
+---
 
 ### **1. Comprehensive Explanation: The Name vs. Data Split**
 

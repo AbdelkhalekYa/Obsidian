@@ -1,6 +1,13 @@
-#concepts 
+---
+cssclasses:
+  - linux
+tags:
+  - concepts
+  - linux
+---
 
-This guide provides a comprehensive and expert analysis of **Standard Input, Output, and Error**, as detailed in the source material. Understanding these streams is essential for mastering the "coolest feature of the command line": **I/O Redirection**, which allows users to manipulate data flow between commands and files.
+> [!tldr]
+> This guide provides a comprehensive and expert analysis of **Standard Input, Output, and Error**, as detailed in the source material. Understanding these streams is essential for mastering the "coolest feature of the command line": **I/O Redirection**, which allows users to manipulate data flow between commands and files.
 
 ### **1. Comprehensive Explanation: The Three Standard Streams**
 

@@ -1,5 +1,10 @@
-#concepts #commands 
-
+---
+cssclasses:
+  - linux
+tags:
+  - concepts
+  - commands
+---
 ## Wildcards in Searching (Shell Globbing)
 
 Wildcards (also called **glob patterns**) are special characters the shell expands into matching filenames _before_ running a command — this expansion happens in the shell itself, not inside the command being run. This is a genuinely important distinction from regex (used by `grep`, `find -regex`, etc.), which is a completely different, more powerful pattern language interpreted by the _tool_, not the shell. Confusing the two is one of the most common beginner mistakes in Linux.

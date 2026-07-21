@@ -1,5 +1,11 @@
-#concepts 
-
+---
+cssclasses:
+  - linux
+tags:
+  - concepts
+  - links
+  - linux
+---
 ### **1. Comprehensive Explanation & Gap Analysis**
 
 Symbolic links were designed as a more flexible evolution of the traditional hard link, specifically created to overcome the structural limitations of the original Unix linking system.
