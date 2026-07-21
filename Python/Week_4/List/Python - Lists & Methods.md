@@ -1,10 +1,10 @@
 ---
-cssclasses:
-  - python
 tags:
   - data-structures
   - lists
   - methods
+  - tuples
+  - python
 source: Automate the Boring Stuff with Python — Chapter 4
 Date: 2026-07-21
 ---
