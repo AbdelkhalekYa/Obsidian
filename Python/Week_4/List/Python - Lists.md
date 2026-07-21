@@ -1,9 +1,12 @@
 ---
-tags:
+cssclasses:
   - python
+tags:
   - data-structures
   - lists
+  - methods
 source: Automate the Boring Stuff with Python — Chapter 4
+Date: 2026-07-21
 ---
 
 # Python Lists
@@ -211,7 +214,7 @@ for i in [0, 1, 2, 3]:
     print(i)   # identical output to the range() version above
 ```
 
-### `range(len(list))` pattern — index *and* value together
+### range(len(list)) pattern — index *and* value together
 ```python
 supplies = ['pens', 'staplers', 'flame-throwers', 'binders']
 for i in range(len(supplies)):
