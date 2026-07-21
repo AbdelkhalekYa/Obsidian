@@ -4,6 +4,7 @@ cssclasses:
 tags:
   - concepts
   - commands
+  - linux
 ---
 ## Wildcards in Searching (Shell Globbing)
 

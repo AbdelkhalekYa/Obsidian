@@ -4,6 +4,7 @@ cssclasses:
 tags:
   - concepts
   - commands
+  - linux
 ---
 
 ### **1. The Four Pillars of Linux Commands**
