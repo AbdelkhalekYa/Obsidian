@@ -34,7 +34,7 @@ spam = ['cat', 'bat', 'rat', 'elephant']
 ```
 
 > [!tip] Mental model
-> Picture a list as a row of numbered mailboxes. The variable doesn't hold the mail directly — it holds the *address* of that row. This becomes critical later in [[#9. References — The Trickiest but Most Important Concept]].
+> Picture a list as a row of numbered mailboxes. The variable doesn't hold the mail directly — it holds the *address* of that row. This becomes critical later in [[#16. References — The Trickiest but Most Important Concept]].
 
 ---
 
@@ -129,7 +129,7 @@ spam[1] = 'aardvark'
 spam[2] = spam[1]   # copy a value from one slot to another
 spam[-1] = 12345    # can assign any type, not just strings
 ```
-This works because lists are **mutable** — see [[#8. Mutable vs. Immutable]].
+This works because lists are **mutable** — see [[#15. Mutable vs. Immutable]].
 
 ---
 
