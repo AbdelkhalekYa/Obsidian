@@ -1,3 +1,10 @@
+---
+tags:
+  - commands
+  - linux
+  - lists
+  - methods
+---
 
 
 Since you didn't specify a language, I'll cover **Python lists**, since that's the language used throughout pwntools and most CTF/security scripting (and it's the most common context for "lists & methods" as a study topic). If you meant a different language (JavaScript, C++, etc.), let me know and I'll adjust.
@@ -147,20 +154,22 @@ people.sort(key=lambda p: p[1])   # sort by age → [('Sara', 19), ('Ali', 25)]
 |`list(a)`|Also creates a shallow copy|
 |`a[:]`|Slicing the full list also copies it|
 
-⚠️ **Important pitfall — reference vs copy:**
+> [!attention]
+> **Important pitfall — reference vs copy:**
+> 
+> ```python
+> a = [1, 2, 3]
+> b = a          # b points to the SAME list as a
+> b.append(4)
+> print(a)       # [1, 2, 3, 4]  <- a changed too!
+> 
+> c = a.copy()   # c is a NEW, independent list
+> c.append(5)
+> print(a)       # [1, 2, 3, 4]  <- unaffected
+> ```
+> 
+> This is one of the most common bugs for beginners — assignment (`=`) doesn't copy a list, it just creates another name pointing to the same object.
 
-```python
-a = [1, 2, 3]
-b = a          # b points to the SAME list as a
-b.append(4)
-print(a)       # [1, 2, 3, 4]  <- a changed too!
-
-c = a.copy()   # c is a NEW, independent list
-c.append(5)
-print(a)       # [1, 2, 3, 4]  <- unaffected
-```
-
-This is one of the most common bugs for beginners — assignment (`=`) doesn't copy a list, it just creates another name pointing to the same object.
 
 ---
 
