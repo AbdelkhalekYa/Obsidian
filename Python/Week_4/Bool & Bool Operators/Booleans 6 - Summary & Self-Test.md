@@ -1,5 +1,8 @@
 ---
-tags: [python, programming, booleans, summary]
+tags:
+  - python
+  - booleans
+  - summary
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference
 up: "[[Python Booleans - MOC]]"
 ---
@@ -51,9 +54,3 @@ up: "[[Python Booleans - MOC]]"
 12. What's the walrus operator, and what problem does it solve? → `:=`, introduced in Python 3.8; lets you assign a value and test it in the same expression, avoiding a separate assignment line (e.g., in `while (chunk := file.read(1024)):`).
 
 ---
-
-## Related Notes
-- [[Python Booleans - MOC]]
-- [[Python Lists - MOC]]
-- [[Python Sets - MOC]]
-- [[Python Dictionaries - MOC]]
