@@ -1,5 +1,8 @@
 ---
-tags: [python, programming, tuples, summary]
+tags:
+  - python
+  - tuples
+  - summary
 source: Combines general Python reference across this note series
 up: "[[Python Tuples - MOC]]"
 ---

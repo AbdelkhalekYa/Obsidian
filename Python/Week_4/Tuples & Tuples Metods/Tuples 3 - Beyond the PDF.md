@@ -1,5 +1,8 @@
 ---
-tags: [python, programming, tuples, advanced]
+tags:
+  - python
+  - tuples
+  - methods
 source: Fully supplementary — not covered anywhere in the provided PDF excerpt
 up: "[[Python Tuples - MOC]]"
 ---

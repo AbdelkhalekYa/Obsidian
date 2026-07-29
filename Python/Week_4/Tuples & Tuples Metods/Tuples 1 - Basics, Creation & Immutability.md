@@ -1,6 +1,8 @@
 ---
-tags: [python, programming, tuples]
-source: "Recap of Lists 4 (from the PDF's brief mention) plus supplementary depth"
+tags:
+  - python
+  - tuples
+source: Recap of Lists 4 (from the PDF's brief mention) plus supplementary depth
 up: "[[Python Tuples - MOC]]"
 ---
 

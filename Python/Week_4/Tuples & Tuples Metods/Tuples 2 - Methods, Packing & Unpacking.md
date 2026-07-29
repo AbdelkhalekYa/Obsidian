@@ -1,5 +1,8 @@
 ---
-tags: [python, programming, tuples, tuple-methods]
+tags:
+  - python
+  - tuples
+  - methods
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference
 up: "[[Python Tuples - MOC]]"
 ---

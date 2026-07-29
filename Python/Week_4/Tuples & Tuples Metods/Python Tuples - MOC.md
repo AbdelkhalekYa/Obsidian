@@ -1,7 +1,10 @@
 ---
-tags: [python, moc, tuples]
+tags:
+  - python
+  - moc
+  - intro
 ---
-
+i
 # Python Tuples & Tuple Methods — Map of Content
 
 > [!info] Source note
