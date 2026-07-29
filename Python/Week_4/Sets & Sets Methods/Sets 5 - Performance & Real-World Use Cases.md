@@ -1,11 +1,7 @@
 ---
 tags:
   - python
-  - programming
-  - data-structures
   - sets
-  - performance
-  - rwuc
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference
 up: "[[Python Sets - MOC]]"
 ---

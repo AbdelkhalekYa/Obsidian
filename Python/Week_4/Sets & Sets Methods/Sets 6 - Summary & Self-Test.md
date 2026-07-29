@@ -1,7 +1,6 @@
 ---
 tags:
   - python
-  - data-structures
   - sets
   - summary
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference

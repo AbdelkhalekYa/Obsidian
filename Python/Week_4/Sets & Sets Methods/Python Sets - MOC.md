@@ -1,5 +1,8 @@
 ---
-tags: [python, moc, data-structures, sets]
+tags:
+  - python
+  - sets
+  - intro
 ---
 
 # Python Sets — Map of Content

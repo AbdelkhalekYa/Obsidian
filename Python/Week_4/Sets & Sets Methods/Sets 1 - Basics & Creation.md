@@ -1,7 +1,6 @@
 ---
 tags:
   - python
-  - data-structures
   - sets
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference
 up: "[[Python Sets - MOC]]"

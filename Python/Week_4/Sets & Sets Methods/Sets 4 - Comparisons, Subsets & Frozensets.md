@@ -1,10 +1,8 @@
 ---
 tags:
   - python
-  - programming
-  - data-structures
   - sets
-  - comparison
+  - methods
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference
 up: "[[Python Sets - MOC]]"
 ---

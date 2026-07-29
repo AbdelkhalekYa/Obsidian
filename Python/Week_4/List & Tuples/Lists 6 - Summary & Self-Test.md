@@ -1,7 +1,6 @@
 ---
 tags:
   - python
-  - data-structures
   - lists
   - summary
 source: Automate the Boring Stuff with Python — Chapter 4
