@@ -1,8 +1,8 @@
 ---
 tags:
   - python
-  - data-structures
   - dictionaries
+  - methods
 source: Partially beyond the provided PDF excerpt — .update(), .pop(), .popitem(), del, .clear(), merging, and comprehensions are supplementary general-Python reference
 up: "[[Python Dictionaries - MOC]]"
 ---

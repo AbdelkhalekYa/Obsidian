@@ -1,13 +1,9 @@
 ---
 tags:
   - python
-  - programming
-  - automate-boring-stuff
-  - data-structures
   - lists
-  - references
 source: Automate the Boring Stuff with Python — Chapter 4
-up: "[[!Python Lists - MOC]]"
+up: "[[Python Lists - MOC]]"
 ---
 
 # Lists 5 — Mutability & References

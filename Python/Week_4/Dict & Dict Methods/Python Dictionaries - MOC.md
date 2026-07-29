@@ -1,5 +1,8 @@
 ---
-tags: [python, moc, data-structures, dictionaries]
+tags:
+  - python
+  - dictionaries
+  - intro
 ---
 # Python Dictionaries — Map of Content
 

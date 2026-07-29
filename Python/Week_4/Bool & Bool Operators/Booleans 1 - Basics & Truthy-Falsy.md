@@ -1,5 +1,7 @@
 ---
-tags: [python, programming, booleans]
+tags:
+  - python
+  - booleans
 source: Supplementary (not in the provided Automate the Boring Stuff excerpt) — general Python reference
 up: "[[Python Booleans - MOC]]"
 ---

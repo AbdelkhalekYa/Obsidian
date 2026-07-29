@@ -1,10 +1,9 @@
 ---
 tags:
   - python
-  - data-structures
   - lists
 source: Automate the Boring Stuff with Python — Chapter 4
-up: "[[!Python Lists - MOC]]"
+up: "[[Python Lists - MOC]]"
 ---
 
 # Lists 1 — Basics & Indexing

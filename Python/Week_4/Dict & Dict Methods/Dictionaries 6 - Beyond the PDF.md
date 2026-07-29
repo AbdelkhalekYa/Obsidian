@@ -2,7 +2,6 @@
 tags:
   - python
   - dictionaries
-  - extra
 source: Fully supplementary — not covered anywhere in the provided PDF excerpt
 up: "[[Python Dictionaries - MOC]]"
 ---

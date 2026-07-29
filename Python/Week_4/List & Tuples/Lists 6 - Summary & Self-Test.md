@@ -5,7 +5,7 @@ tags:
   - lists
   - summary
 source: Automate the Boring Stuff with Python — Chapter 4
-up: "[[!Python Lists - MOC]]"
+up: "[[Python Lists - MOC]]"
 ---
 
 # Lists 6 — Summary & Self-Test

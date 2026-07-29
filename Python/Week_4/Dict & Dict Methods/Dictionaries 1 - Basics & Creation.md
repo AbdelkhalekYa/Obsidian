@@ -1,7 +1,6 @@
 ---
 tags:
   - python
-  - data-structures
   - dictionaries
 source: Automate the Boring Stuff with Python — Chapter 5 (intro)
 up: "[[Python Dictionaries - MOC]]"

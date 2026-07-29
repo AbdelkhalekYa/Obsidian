@@ -1,11 +1,10 @@
 ---
 tags:
   - python
-  - data-structures
   - lists
   - methods
 source: Automate the Boring Stuff with Python — Chapter 4
-up: "[[!Python Lists - MOC]]"
+up: "[[Python Lists - MOC]]"
 ---
 
 # Lists 3 — Methods

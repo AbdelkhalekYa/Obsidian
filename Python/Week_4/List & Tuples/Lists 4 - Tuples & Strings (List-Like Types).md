@@ -1,12 +1,11 @@
 ---
 tags:
   - python
-  - data-structures
   - lists
   - tuples
   - strings
 source: Automate the Boring Stuff with Python — Chapter 4
-up: "[[!Python Lists - MOC]]"
+up: "[[Python Lists - MOC]]"
 ---
 
 # Lists 4 — Tuples & Strings (List-Like Types)

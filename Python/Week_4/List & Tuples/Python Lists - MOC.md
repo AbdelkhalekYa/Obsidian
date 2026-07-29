@@ -1,5 +1,9 @@
 ---
-tags: [python, moc, data-structures, lists]
+tags:
+  - python
+  - lists
+  - intro
+  - tuples
 ---
 
 # Python Lists — Map of Content

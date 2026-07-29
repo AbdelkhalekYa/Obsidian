@@ -1,5 +1,8 @@
 ---
-tags: [python, moc, booleans]
+tags:
+  - python
+  - booleans
+  - intro
 ---
 
 # Python Booleans & Boolean Operators — Map of Content

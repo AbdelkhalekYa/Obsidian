@@ -1,7 +1,6 @@
 ---
 tags:
   - python
-  - data-structures
   - dictionaries
   - summary
 source: Combines Automate the Boring Stuff Chapter 5 (intro) with supplementary material from this note series
