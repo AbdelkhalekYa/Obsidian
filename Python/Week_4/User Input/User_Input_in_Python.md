@@ -2,9 +2,7 @@
 title: User Input in Python
 tags:
   - python
-  - programming
   - input-output
-  - cheat-sheet
 aliases:
   - Python input() Function
   - Reading User Input
